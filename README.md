@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # libreria-app
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Desarrollo_Examen_Final
+>>>>>>> c9137dff2c0a073de577e3d43eb84450812d5aac
