@@ -57,6 +57,7 @@ Email: usuario@example.com
 Password: [contraseña del usuario]
 ```
 
+<<<<<<< HEAD
 ## 📁 Estructura del Proyecto
 
 ```
@@ -143,4 +144,6 @@ Este proyecto fue desarrollado con fines académicos.
 
 - Juan José Quintero Sánchez - 192456
 - Kevin Martínez Otero - 192537
-```
+
+# Desarrollo_Examen_Final
+
