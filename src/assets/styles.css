@@ -1,0 +1,51 @@
+:root{
+  --primary:#6c63ff;
+  --accent:#8a5cf6;
+  --card-bg:#ffffff;
+}
+
+.login-bg {
+  min-height: 85vh;
+  background: linear-gradient(135deg,#5966f6 0%, #8a5cf6 50%, #8b63d6 100%);
+}
+
+.card-rounded {
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+.sidebar {
+  min-height: 100vh;
+  background: #2c3240;
+  color: #fff;
+}
+.sidebar .nav-link { color:#d1d5db; }
+.sidebar .nav-link.active { background: rgba(255,255,255,0.06); color:#fff; }
+
+.topbar {
+  background: linear-gradient(90deg, #6c63ff, #8a5cf6);
+  color: #fff;
+}
+
+.stat-card {
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(15,23,42,0.06);
+  background: #fff;
+}
+
+.product-card {
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 8px 20px rgba(10,10,20,0.04);
+}
+
+.modal-backdrop{ z-index:1040; }
+.modal{ z-index:1050; background: rgba(0,0,0,0.25); }
+
+.center-vert { display:flex; align-items:center; justify-content:center; }
+.btn-gradient {
+  background: linear-gradient(90deg,#6c63ff,#8a5cf6);
+  border: none;
+  color: #fff;
+}
